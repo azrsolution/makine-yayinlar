@@ -106,7 +106,7 @@
     html += `
     <section>
       <h2>En Yeni Makalelerimiz</h2>
-      <p class="sub">SCI / SCI-E indeksli dergilerde yayımlanan son ${d.featured.length} makale · bölüm öğretim elemanları kalın yazılmıştır</p>
+      <p class="sub">SCI / SCI-E indeksli dergilerde yayımlanan son ${d.featured.length} makale</p>
       <ol class="pubs">` + d.featured.map(p => {
         const authors = p.authors.split(',').map(a => a.trim()).map(a =>
           isStaff(a, p) ? `<b>${esc(a)}</b>` : esc(a)).join(', ');
