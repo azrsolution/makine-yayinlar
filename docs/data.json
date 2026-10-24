@@ -1,0 +1,423 @@
+{
+ "updated": "2026-10-24T07:53:22.154Z",
+ "source": "https://unis.karabuk.edu.tr/birim/calismalar/makine-muhendisligi/id=2_Cp8uEJO_74",
+ "unit": "Makine Mühendisliği",
+ "years": [
+  2010,
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025,
+  2026
+ ],
+ "makale": [
+  28,
+  34,
+  27,
+  50,
+  39,
+  52,
+  51,
+  69,
+  80,
+  90,
+  116,
+  153,
+  171,
+  192,
+  199,
+  237,
+  180
+ ],
+ "bildiri": [
+  13,
+  34,
+  30,
+  31,
+  56,
+  76,
+  129,
+  193,
+  130,
+  128,
+  26,
+  82,
+  54,
+  95,
+  100,
+  188,
+  35
+ ],
+ "toplam": [
+  44,
+  70,
+  58,
+  82,
+  98,
+  136,
+  185,
+  270,
+  219,
+  230,
+  143,
+  240,
+  239,
+  309,
+  317,
+  445,
+  221
+ ],
+ "endeks": {
+  "SCI-E": [
+   6,
+   11,
+   12,
+   22,
+   12,
+   23,
+   16,
+   23,
+   21,
+   40,
+   59,
+   55,
+   92,
+   96,
+   106,
+   143,
+   98
+  ],
+  "SCI / SSCI": [
+   3,
+   4,
+   2,
+   7,
+   7,
+   6,
+   10,
+   7,
+   8,
+   17,
+   9,
+   16,
+   11,
+   23,
+   22,
+   20,
+   32
+  ],
+  "ESCI": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   2,
+   8,
+   4,
+   15,
+   17,
+   10,
+   21,
+   20,
+   15,
+   24
+  ],
+  "Scopus": [
+   2,
+   4,
+   3,
+   3,
+   6,
+   4,
+   5,
+   10,
+   10,
+   7,
+   1,
+   8,
+   8,
+   7,
+   11,
+   13,
+   3
+  ],
+  "TR Dizin": [
+   2,
+   1,
+   1,
+   4,
+   1,
+   3,
+   4,
+   4,
+   5,
+   4,
+   7,
+   23,
+   12,
+   13,
+   14,
+   19,
+   3
+  ],
+  "Diğer": [
+   15,
+   14,
+   9,
+   14,
+   13,
+   15,
+   16,
+   23,
+   28,
+   18,
+   25,
+   34,
+   38,
+   32,
+   26,
+   27,
+   20
+  ]
+ },
+ "totals": {
+  "yayin": 3432,
+  "makale": 1768
+ },
+ "featured": [
+  {
+   "title": "Experimental investigation and Box–Behnken analysis of radially graded concentric diamond lattice structures fabricated by vat photopolymerization",
+   "journal": "Applied Physics A Materials Science and Processing",
+   "authors": "Muhammet MEVLÜT KARACA",
+   "dept_authors": [
+    "Muhammet MEVLÜT KARACA"
+   ],
+   "year": 2026,
+   "index": "SCI",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJOuD3O_37/experimental-investigation-and-boxbehnken-analysis-of-radially-graded-concentric-diamond-lattice-structures-fabricated-by-vat-photopolymerization"
+  },
+  {
+   "title": "Effect of direct aging on the microstructure and sustainable milling performance of L-PBF 17-4 PH stainless steel",
+   "journal": "Materials Research Express",
+   "authors": "Mustafa YİĞİT, Mahir AKGÜN, Halil DEMİR",
+   "dept_authors": [
+    "Halil DEMİR"
+   ],
+   "year": 2026,
+   "index": "SCI",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJOrC34_6/effect-of-direct-aging-on-the-microstructure-and-sustainable-milling-performance-of-l-pbf-17-4-ph-stainless-steel"
+  },
+  {
+   "title": "Ultrahigh strength–ductility synergy through a storage-capable defect architecture in equiatomic VCoNi",
+   "journal": "Scripta Materialia",
+   "authors": "Sezer PIÇAK",
+   "dept_authors": [
+    "Sezer PIÇAK"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJOoDZ8_47/ultrahigh-strengthductility-synergy-through-a-storage-capable-defect-architecture-in-equiatomic-vconi"
+  },
+  {
+   "title": "Improving rolling contact fatigue behavior in wheel–rail systems using a slag powder–oil mixture friction modifier",
+   "journal": "International Journal of Damage Mechanics",
+   "authors": "Ömer ÇÖLOVA, Khangardash ASGAROV, Hayrettin AHLATCI, Harun ÇUĞ",
+   "dept_authors": [
+    "Khangardash ASGAROV"
+   ],
+   "year": 2026,
+   "index": "SCI",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJOnC3G_21/improving-rolling-contact-fatigue-behavior-in-wheelrail-systems-using-a-slag-powderoil-mixture-friction-modifier"
+  },
+  {
+   "title": "Experimental assessment of SWCNT-added waste cooking oil biodiesel--diesel blend in a single-cylinder diesel generator: performance, emissions, energy, exergy, sustainability, and exergoeconomic analyses",
+   "journal": "Applied Thermal Engineering",
+   "authors": "Murat Bertan PARİLTİ, Mehmet ÇELİK",
+   "dept_authors": [
+    "Murat Bertan PARİLTİ"
+   ],
+   "year": 2026,
+   "index": "SCI",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJKrCJG_44/experimental-assessment-of-swcnt-added-waste-cooking-oil-biodiesel-diesel-blend-in-a-single-cylinder-diesel-generator-performance-emissions-energy-exergy-sustainability-and-exergoeconomic-analyses"
+  },
+  {
+   "title": "Multi‐Objective RSM Optimization of Emission and Performance Characteristics in a Diesel Engine Fueled With BaTiO3 Nano‐Enhanced Jojoba Biodiesel",
+   "journal": "Energy Science and Engineering",
+   "authors": "Arif SAVAŞ, Ramazan ŞENER, Stefano MAURO, Oğuzhan DER, Samet USLU",
+   "dept_authors": [
+    "Samet USLU"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJGtDZS_71/multiobjective-rsm-optimization-of-emission-and-performance-characteristics-in-a-diesel-engine-fueled-with-batio3-nanoenhanced-jojoba-biodiesel"
+  },
+  {
+   "title": "Atomistic Investigation of Thermomechanical Deformation Behavior of 400-K and 500-K Monel-Type Alloys by Molecular Dynamics Simulation",
+   "journal": "JOURNAL OF ALLOYS AND COMPOUNDS",
+   "authors": "Naimah Abdullahi Jama MUSSİE, Hayrettin AHLATCI, Melik ÇETİN, İsmail ESEN, Volkan KARAKURT, Rukiye TEKİN ÜNVER",
+   "dept_authors": [
+    "Rukiye TEKİN ÜNVER"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJ8vD3O_15/atomistic-investigation-of-thermomechanical-deformation-behavior-of-400-k-and-500-k-monel-type-alloys-by-molecular-dynamics-simulation"
+  },
+  {
+   "title": "Investigating the Thermomechanical Stability and Vibration of Curved Smart Sandwich Nanoplates Integrated With a Hexachiral Auxetic Core and Magneto‐Electro‐Elastic Surface Layers",
+   "journal": "ZAMM-ZEITSCHRIFT FUR ANGEWANDTE MATHEMATIK UND MECHANIK",
+   "authors": "Mustafa BUĞDAY, İsmail ESEN",
+   "dept_authors": [
+    "Mustafa BUĞDAY"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJ8uDpO_75/investigating-the-thermomechanical-stability-and-vibration-of-curved-smart-sandwich-nanoplates-integrated-with-a-hexachiral-auxetic-core-and-magnetoelectroelastic-surface-layers"
+  },
+  {
+   "title": "Systematic reduction of size deviations between injected and designed products and effects of process parameters on warpage",
+   "journal": "Proceedings of the Institution of Mechanical Engineers Part L Journal of Materials Design and Applications",
+   "authors": "Hakan MADEN, Cevdet GÖLOĞLU",
+   "dept_authors": [
+    "Cevdet GÖLOĞLU"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJ4vDZC_38/systematic-reduction-of-size-deviations-between-injected-and-designed-products-and-effects-of-process-parameters-on-warpage"
+  },
+  {
+   "title": "Improvement in Mechanical and Biocorrosion Properties of Hot-Rolled Zn-Mg-Al Alloys Using Scandium-Induced Grain Refinement",
+   "journal": "Journal of Materials Engineering and Performance",
+   "authors": "Salem A. G. SALEH, İsmail HAKKI KARA",
+   "dept_authors": [
+    "İsmail HAKKI KARA"
+   ],
+   "year": 2026,
+   "index": "SCI",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJ4sDpa_87/improvement-in-mechanical-and-biocorrosion-properties-of-hot-rolled-zn-mg-al-alloys-using-scandium-induced-grain-refinement"
+  },
+  {
+   "title": "Investigation of the Mechanical Properties of ABS Plus/PLA Composites Produced by 3D Printing",
+   "journal": "Mechanics of Composite Materials",
+   "authors": "Oğuz KOÇAR, Ahmet SERDAR GÜLDİBİ, Nergizhan ANAÇ, Erhan BAYSAL, Mehmet Şükrü ADİN, Furkan PARMAKSIZ",
+   "dept_authors": [
+    "Ahmet SERDAR GÜLDİBİ"
+   ],
+   "year": 2026,
+   "index": "SCI",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJ4mDZC_29/investigation-of-the-mechanical-properties-of-abs-pluspla-composites-produced-by-3d-printing"
+  },
+  {
+   "title": "Data-driven interpretation of wear mechanisms in rare-earth-modified FeNiCrMoAl high-entropy alloys via hybrid anomaly analytics",
+   "journal": "Philosophical Magazine",
+   "authors": "Bünyamin ÇİÇEK, Harun ÇUĞ, Ahmet KARAOĞLU, Shokri Saleh M. KHALIFA, Mehmet AKİF ERDEN, Mustafa SEYREK, Hakan GÜNGÜNEŞ",
+   "dept_authors": [
+    "Harun ÇUĞ"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJ4mCpS_66/data-driven-interpretation-of-wear-mechanisms-in-rare-earth-modified-fenicrmoal-high-entropy-alloys-via-hybrid-anomaly-analytics"
+  },
+  {
+   "title": "3D Wave Dispersion Analysis of Sandwich Plates With GPRL-Reinforced FGM Face Layers Containing Anti-Tetrachiral Auxetic Metamaterials",
+   "journal": "ZAMM Zeitschrift Fur Angewandte Mathematik Und Mechanik",
+   "authors": "Engin YILDIRIM",
+   "dept_authors": [
+    "Engin YILDIRIM"
+   ],
+   "year": 2026,
+   "index": "SCI",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_EJ0pDZ8_17/3d-wave-dispersion-analysis-of-sandwich-plates-with-gprl-reinforced-fgm-face-layers-containing-anti-tetrachiral-auxetic-metamaterials"
+  },
+  {
+   "title": "Corrosion and hydrogen evolution behaviour of powder metallurgy Mg-Cu composites in simulated body fluid",
+   "journal": "Journal of Materials Engineering and Performance",
+   "authors": "Rukiye TEKİN ÜNVER, Kenza DJEBARİ, Bilge DEMİR, Hayrettin AHLATCI, Cahit BİLGİ",
+   "dept_authors": [
+    "Bilge DEMİR"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_E3CoC3K_91/corrosion-and-hydrogen-evolution-behaviour-of-powder-metallurgy-mg-cu-composites-in-simulated-body-fluid"
+  },
+  {
+   "title": "Combined impact of geometric and process-induced dual-grading on the mechanical performance of 3D-Printed TPMS meta-biomaterials",
+   "journal": "Journal of Reinforced Plastics and Composites",
+   "authors": "Abdulfettan NASİR, Abdurrahim TEMİZ",
+   "dept_authors": [
+    "Abdurrahim TEMİZ"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_E3aoCJC_36/combined-impact-of-geometric-and-process-induced-dual-grading-on-the-mechanical-performance-of-3d-printed-tpms-meta-biomaterials"
+  },
+  {
+   "title": "Eco-friendly epoxy-based coatings reinforced with graphene nanoplatelets and cellulose nanocrystals for enhanced corrosion protection of 2024 aluminium alloy",
+   "journal": "Journal of the Indian Chemical Society",
+   "authors": "Aldulaimi Mohammed H., Khaled M. N. CHAHROUR",
+   "dept_authors": [
+    "Khaled M. N. CHAHROUR"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_E3anEJa_67/eco-friendly-epoxy-based-coatings-reinforced-with-graphene-nanoplatelets-and-cellulose-nanocrystals-for-enhanced-corrosion-protection-of-2024-aluminium-alloy"
+  },
+  {
+   "title": "Fabrication and performance evaluation of trapezoidal surface-layered functionally graded composites via a novel separator-assisted powder metallurgy technique",
+   "journal": "Engineering Science and Technology an International Journal",
+   "authors": "İsmail KAYABAŞI, Gökhan SUR",
+   "dept_authors": [
+    "İsmail KAYABAŞI"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_E3WsE3K_17/fabrication-and-performance-evaluation-of-trapezoidal-surface-layered-functionally-graded-composites-via-a-novel-separator-assisted-powder-metallurgy-technique"
+  },
+  {
+   "title": "Effect of Foam Faces and Butterfly Auxetic Core on Sandwich Nanoplate Vibration and Buckling",
+   "journal": "ZAMM-ZEITSCHRIFT FUR ANGEWANDTE MATHEMATIK UND MECHANIK",
+   "authors": "Mustafa EROĞLU, Mehmet Akif KOÇ, İsmail ESEN",
+   "dept_authors": [
+    "İsmail ESEN"
+   ],
+   "year": 2026,
+   "index": "SCI Expanded",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_E3WrDZC_46/effect-of-foam-faces-and-butterfly-auxetic-core-on-sandwich-nanoplate-vibration-and-buckling"
+  },
+  {
+   "title": "Novel static analysis of a rotary sinter cooling process for determination of temperature distribution and waste heat recovery potential to generate power with ORC",
+   "journal": "Heat and Mass Transfer Waerme Und Stoffuebertragung",
+   "authors": "Gurkan YUKSEL, Erhan KAYABAŞI, Olaf STRELOW",
+   "dept_authors": [
+    "Erhan KAYABAŞI"
+   ],
+   "year": 2026,
+   "index": "SCI",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_E3WqCp0_47/novel-static-analysis-of-a-rotary-sinter-cooling-process-for-determination-of-temperature-distribution-and-waste-heat-recovery-potential-to-generate-power-with-orc"
+  },
+  {
+   "title": "Experimental and statistical analysis of the effect of reinforcement element Ni(K)Gr on the wear of Al/B4C/Ni(K)Gr metal matrix composite materials",
+   "journal": "Journal of Composite Materials",
+   "authors": "Engin NAS, Hasan GÖKKAYA",
+   "dept_authors": [
+    "Hasan GÖKKAYA"
+   ],
+   "year": 2026,
+   "index": "SCI",
+   "url": "https://unis.karabuk.edu.tr/yayin-detay/2_E3WpE3C_6/experimental-and-statistical-analysis-of-the-effect-of-reinforcement-element-nikgr-on-the-wear-of-alb4cnikgr-metal-matrix-composite-materials"
+  }
+ ]
+}
